@@ -1,6 +1,6 @@
 # Program to check if a number is prime or not
 
-num = 29
+num = 29w3.dd
 
 # To take input from the user
 #num = int(input("Enter a number: "))
@@ -9,7 +9,7 @@ num = 29
 flag = False
 
 # prime numbers are greater than 1
-if num > 1:
+if num > 1
     # check for factors
     for i in range(2, num):
         if (num % i) == 0:
